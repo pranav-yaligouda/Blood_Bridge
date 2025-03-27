@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 
-PORT = os.getenv("PORT", 4000)  # Render assigns a dynamic port, default to 10000
+PORT = os.getenv("PORT", 10000)  # Render assigns a dynamic port, default to 10000
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
