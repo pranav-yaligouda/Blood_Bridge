@@ -22,8 +22,8 @@ This is a **Django-based Blood Bank Management System** that allows users to man
 
 ### 1. Clone the Repository
 ```bash
-git clone <repo-url>
-cd bloodbankmanagement-master
+git clone https://github.com/pranav-yaligouda/Blood_Bridge.git
+cd Blood_Bridge
 ```
 
 ### 2. Create a Virtual Environment
